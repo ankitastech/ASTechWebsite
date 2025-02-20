@@ -1,51 +1,11 @@
 [
-    {
-      "Company Name": "Etihad",
-      "Company Domain name": "etihad.ae",
-      "Country": "United Arab Emirates",
-      "Latitude": 25.276987,
-      "Longitude": 55.296249
-    },
-    {
-      "Company Name": "Sabena Engineering",
-      "Company Domain name": "sabena-engineering.com",
-      "Country": "Belgium",
-      "Latitude": 50.850346,
-      "Longitude": 4.351721
-    },
-    {
-      "Company Name": "Sabena Technics",
-      "Company Domain name": "sabenatechnics.com",
-      "Country": "France",
-      "Latitude": 48.856613,
-      "Longitude": 2.352222
-    },
-    {
-      "Company Name": "ACTVET",
-      "Company Domain name": "actvet.gov.ae",
-      "Country": "United Arab Emirates",
-      "Latitude": 25.276987,
-      "Longitude": 55.296249
-    },
-    {
-      "Company Name": "Airbus",
-      "Company Domain name": "airbus.com",
-      "Country": "France",
-      "Latitude": 48.856613,
-      "Longitude": 2.352222
-    },
-    {
-      "Company Name": "Emirates",
-      "Company Domain name": "emirates.com",
-      "Country": "United Arab Emirates",
-      "Latitude": 25.276987,
-      "Longitude": 55.296249
-    },
-    {
-      "Company Name": "KLM",
-      "Company Domain name": "klm.com",
-      "Country": "Netherlands",
-      "Latitude": 52.367573,
-      "Longitude": 4.904139
-    }
-  ]
+
+    {"name":"Etihad","latitude":25.276987,"longitude":55.296249},
+    {"name":"Sabena Engineering","latitude":50.850346,"longitude":4.351721},
+    {"name":"Sabena Technics","latitude":48.856613,"longitude":2.352222},
+    {"name":"ACTVET","latitude":25.276987,"longitude":55.296249},
+    {"name":"Airbus","latitude":48.856613,"longitude":2.352222},
+    {"name":"Emirates","latitude":25.276987,"longitude":55.296249},
+    {"name":"KLM","latitude":52.367573,"longitude":4.904139}
+
+]
